@@ -20,7 +20,7 @@
 
 * [Windows JDK安装与环境变量配置详细的图文教程（Eclipse的运行需要Java环境的支持。）](http://www.cnblogs.com/liuhongfeng/p/4177568.html)
 * [Eclipse 各个版本的介绍](http://www.cnblogs.com/liuhongfeng/p/5004426.html)
-* [Eclipse 安装（下载之后解压即可）](http://www.runoob.com/eclipse/eclipse-install.html)
+* [Eclipse 安装教程（下载之后解压即可）](http://www.runoob.com/eclipse/eclipse-install.html)
 * [Eclipse 修改字符集](http://www.runoob.com/eclipse/eclipse-charset.html)
 * [Eclipse 工作台(Workbench)以及多窗口操作](http://www.runoob.com/eclipse/eclipse-explore-windows.html)
 * [Eclipse 菜单](http://www.runoob.com/eclipse/eclipse-explore-menus.html)
