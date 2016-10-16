@@ -36,6 +36,7 @@
 * [Eclipse 运行配置](http://www.runoob.com/eclipse/eclipse-run-configuration.html)
 * [Eclipse 运行程序](http://www.runoob.com/eclipse/eclipse-running-program.html)
 * [Eclipse 生成jar包](http://www.runoob.com/eclipse/eclipse-create-jar-files.html)
+* [Eclipse 导出为war文件，热部署到tomcat运行](http://www.cnblogs.com/hongten/archive/2012/11/27/hongten_java_eclipse_war_tomcat.html)
 * [Eclipse 关闭项目](http://www.runoob.com/eclipse/eclipse-close-project.html)
 * [Eclipse 编译项目](http://www.runoob.com/eclipse/eclipse-build-project.html)
 * [Eclipse Debug 配置](http://www.runoob.com/eclipse/eclipse-debug-configuration.html)
