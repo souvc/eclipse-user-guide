@@ -41,7 +41,7 @@
 * [Eclipse 编译项目](http://www.runoob.com/eclipse/eclipse-build-project.html)
 * [Eclipse Debug 配置](http://www.runoob.com/eclipse/eclipse-debug-configuration.html)
 * [Eclipse Debug 调试](http://www.runoob.com/eclipse/eclipse-debugging-program.html)
-* [Eclipse Debug调试技巧汇总](http://www.cnblogs.com/liuhongfeng/p/4538269.html)
+* [Eclipse Debug调试技巧，以及调试快捷键汇总](http://www.cnblogs.com/liuhongfeng/p/4538269.html)
 * [Eclipse 首选项(Preferences)](http://www.runoob.com/eclipse/eclipse-preferences.html)
 * [Eclipse 内容辅助](http://www.runoob.com/eclipse/eclipse-content-assist.html)
 * [Eclipse 快速修复](http://www.runoob.com/eclipse/eclipse-quick-fix.html)
