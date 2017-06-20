@@ -14,7 +14,7 @@
 * Eclipse 各个版本：[点击预览](http://www.eclipse.org/downloads/eclipse-packages/)
 * Eclipse 应用市场：[点击预览](http://marketplace.eclipse.org/)
 * Eclipse 语言包下载：[点击预览](http://www.eclipse.org/babel/downloads.php)   
-   
+* Eclipse Spring Tool Suite：[点击下载](https://spring.io/tools/sts)   
 
 ## Eclipse教程导航
 
