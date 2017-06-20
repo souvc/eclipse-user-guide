@@ -1,6 +1,10 @@
-# Eclipse-User-Guide
+## 本项目的目的
 
-##Eclipse介绍
+
+* 整理一些Eclipse常用的技巧，以及开发文档，方便查阅。
+
+
+## Eclipse官方地址
 
 * Eclipse 是著名的跨平台的自由集成开发环境（IDE）。
 * Eclipse 是一个开放源代码的软件开发项目，专注于为高度集成的工具开发提供一个全功能的、具有商业品质的工业平台。
@@ -9,19 +13,15 @@
 * Eclipse 用户指南 ：[《Eclipse 用户指南》](http://help.eclipse.org/neon/index.jsp)
 * Eclipse 各个版本：[点击预览](http://www.eclipse.org/downloads/eclipse-packages/)
 * Eclipse 应用市场：[点击预览](http://marketplace.eclipse.org/)
-* Eclipse 语言包下载：[点击预览](http://www.eclipse.org/babel/downloads.php)
-   
-##本项目的目的
-
-* 整理一些Eclipse常用的技巧，以及开发文档，方便查阅。
+* Eclipse 语言包下载：[点击预览](http://www.eclipse.org/babel/downloads.php)   
    
 
-##Eclipse教程导航
+## Eclipse教程导航
 
 * [Windows JDK安装与环境变量配置详细的图文教程（Eclipse的运行需要Java环境的支持。）](http://www.cnblogs.com/liuhongfeng/p/4177568.html)
 * [Eclipse 各个版本的介绍](http://www.cnblogs.com/liuhongfeng/p/5004426.html)
 * [Eclipse 安装教程（下载之后解压即可）](http://www.runoob.com/eclipse/eclipse-install.html)
-* [Eclipse 修改字符集](http://www.runoob.com/eclipse/eclipse-charset.html)
+* [Eclipse 修改工作空间，文件默认，某文件类型，单个文件的编码方法](http://www.runoob.com/eclipse/eclipse-charset.html)
 * [Eclipse 工作台(Workbench)以及多窗口操作](http://www.runoob.com/eclipse/eclipse-explore-windows.html)
 * [Eclipse 菜单](http://www.runoob.com/eclipse/eclipse-explore-menus.html)
 * [Eclipse 视图(View)](http://www.runoob.com/eclipse/eclipse-explore-views.html)
