@@ -21,7 +21,7 @@
 * [Windows JDK安装与环境变量配置详细的图文教程（Eclipse的运行需要Java环境的支持。）](http://www.cnblogs.com/liuhongfeng/p/4177568.html)
 * [Eclipse 各个版本的介绍](http://www.cnblogs.com/liuhongfeng/p/5004426.html)
 * [Eclipse 安装教程（下载之后解压即可）](http://www.runoob.com/eclipse/eclipse-install.html)
-* [Eclipse 修改工作空间，文件默认，某文件类型，单个文件的编码方法](http://www.runoob.com/eclipse/eclipse-charset.html)
+* [Eclipse 修改工作空间，文件默认，某文件类型，单个文件的编码方法](http://www.souvc.com/?p=1093)
 * [Eclipse 工作台(Workbench)以及多窗口操作](http://www.runoob.com/eclipse/eclipse-explore-windows.html)
 * [Eclipse 菜单](http://www.runoob.com/eclipse/eclipse-explore-menus.html)
 * [Eclipse 视图(View)](http://www.runoob.com/eclipse/eclipse-explore-views.html)
@@ -69,7 +69,11 @@
 * [Eclipse 编译去除svn文件夹](http://www.cnblogs.com/liuhongfeng/p/4933175.html)
 * [Eclipse 配置MyEclipse环境下导入的项目](http://www.cnblogs.com/liuhongfeng/p/5044250.html)
 * [Eclipse 解决新建一个包的时候，工具帮生成了多个包的问题](http://www.cnblogs.com/liuhongfeng/p/5045167.html)
-
-
+* [Eclipse 在线安装Maven插件](http://blog.csdn.net/tangyajun_168/article/details/6952831)
+* [Eclipse构建Maven项目](http://www.yiibai.com/maven/m2eclipse-project.html)
+* [Eclipse中开发环境把Tomcat 服务器的默认BIO模式改为NIO模式](http://www.souvc.com/?p=2850)
+* [Eclipse 通过Mysql数据库表转成实体类](http://www.souvc.com/?p=2516)
+* [Eclipse和Myeclipse打war包到服务器部署注意事项](http://www.souvc.com/?p=2498)
+* [MyEclipse Professional 2014安装jad反编译插件](http://www.souvc.com/?p=1090)
 
 
